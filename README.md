@@ -32,4 +32,5 @@ php artisan serve
 - Justin Angelo G Perez <justinangeloperez327@gmail.com>
 ## License & copyright
 © Justin Angelo G Perez
+
 Licensed under the [MIT License](LICENSE)
