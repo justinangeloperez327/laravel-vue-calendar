@@ -1,7 +1,3 @@
-# 02092022-justin-perez-web
-
-
-
 ## Laravel Vue Calendar
 
 Laravel Vue Calendar is an app created using Laravel + Vue + FullCalendar
@@ -19,6 +15,7 @@ php artisan migrate
 php artisan serve
 ```
 
+## <a href="https://laravel-vue-calendar.herokuapp.com/">Demo</a>
 
 ## Main dependencies
 
