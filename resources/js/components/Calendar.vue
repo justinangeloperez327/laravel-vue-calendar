@@ -2,10 +2,10 @@
 <div class="card">
   <div class="card-body">
     <div class="row">
-      <div class="col-3">
+      <div class="col-md-3">
         <event-form></event-form>
       </div>
-      <div class="col-9">
+      <div class="col-md-9">
         <event-calendar></event-calendar>
       </div>
     </div>
