@@ -9,7 +9,7 @@ git clone https://gitlab.com/appetiser/appetiser-pre-hire-coding-challenge/02092
 cd repository
 composer install
 npm install or yarn
-yarn dev
+npm run dev or yarn dev
 create a database on your local
 php artisan migrate
 php artisan serve
