@@ -16,10 +16,13 @@
         </div>
       </div>
     </div>
-    <div class="form-check form-check-inline mb-3" v-for="(day, index) in weekdays" :key="index">
+    <div class="mb-2">
+      <div class="form-check form-check-inline" v-for="(day, index) in weekdays" :key="index">
       <input class="form-check-input" type="checkbox" id="inlineCheckbox1" :value="day.value" v-model="form.days">
       <label class="form-check-label" for="inlineCheckbox1">{{ day.text }}</label>
     </div>
+    </div>
+    
     <button type="submit" class="btn btn-primary">Save</button>
   </form>
 </template>
