@@ -1,7 +1,6 @@
 ## Laravel Vue Calendar
 
 Laravel Vue Calendar is an app created using Laravel + Vue + FullCalendar
-
 ## Installation
 
 ```
@@ -28,3 +27,9 @@ php artisan serve
   <li>Vue Router</li>
   <li>Vue Toastification</li>
 </ul>
+
+## Contributors
+- Justin Angelo G Perez <justinangeloperez327@gmail.com>
+## License & copyright
+© Justin Angelo G Perez
+Licensed under the [MIT License](LICENSE)
